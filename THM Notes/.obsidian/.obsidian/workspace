@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c7b3cb8dcd186284",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c14e158d471b71d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows Forensics 2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a132b87a96702b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1a81a34d8749ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f9464303caf2e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "236dcce0522070e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d132f04bd3b7dc69",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1812a6e5835704f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0d3ae50e2cb3310",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows Forensics 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5c14e158d471b71d",
+  "lastOpenFiles": [
+    "Windows Forensics 2.md",
+    "Windows Forensics 1.md"
+  ]
+}
