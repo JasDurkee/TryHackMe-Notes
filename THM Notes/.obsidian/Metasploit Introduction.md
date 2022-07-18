@@ -49,3 +49,17 @@ ___
 - <strong>UDP service identification:</strong> scanner/discovery/udp_sweep module will allow you to quickly identify services running over UDP.
 - <strong>SMB Scans:</strong> scanner/smb/smb_version module allows you to identify smb
 - <strong>Workspace:</strong> Allows you to have your own workspace and the ability to save your work into a database.
+
+---
+<strong><h4>Meterpreter:</h4></strong>
+---
+- Meterpreter runs on the target system but is not installed on it
+- It runs in memory and does not write itself to the disk on the target
+	- <strong>Helpful Commands:</strong>
+		- <strong>Help</strong>: This command will give you a list of all available commands in Meterpreter
+		- <strong>Getuid:</strong> This command will display the user with which meterpreter is currently running.
+		- <strong>Ps:</strong> This command will list running processes
+		- <strong>Migrate:</strong> Allows meterpreter to migrate to a different process
+		- <strong>Hashdump:</strong> This command will list the content of the SAM(Security Account Manager) database
+		- <strong>Search:</strong> This command is useful to locate files with potentially juicy information
+		- <strong>Shell:</strong> This command will launch a regular command-line shell on the target system
